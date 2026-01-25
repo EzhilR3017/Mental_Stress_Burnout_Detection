@@ -17,6 +17,6 @@ An AI-based system that collects lifestyle and behavioral data to detect early s
 - Natural Language Processing (NLP)
 
 ## Demo / Prototype Links
-- Google Form (MVP): https://docs.google.com/forms/d/e/1FAIpQLSebG6IW3H-eTrhsJZXdYes6lbNNi-4nLYG4YBnkkRejy9uaNw/viewform?usp=publish-editor
-- Google Sheet (Responses + Output): https://docs.google.com/spreadsheets/d/1PVxBtn4g4OsSgqX1oVN25oQgM1WWpmx_9lrLfbxDtQU/edit?usp=sharing
+- Google Form (MVP): https://docs.google.com/forms/d/e/1FAIpQLSchIa8uc-KNdKCNDlJW-8hEG_Ci4e2hq5Mcwm8-5ZE22SRtdw/viewform?usp=header
+- Google Sheet (Responses + Output): https://docs.google.com/spreadsheets/d/1m7BR9PbGU2mCOhk8cA3qhvZC80MejaMp6J79VAXxsH4/edit?usp=sharing
 - Video Demo (MP4):https://drive.google.com/file/d/1k-LmsYRTjWhF6bKqHSzufn16UMLRDe27/view?usp=sharing
